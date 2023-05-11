@@ -17,7 +17,7 @@ function Footer() {
             <p>Decision Making</p>
             <p >Attention to Detail</p>
             <p > Communication Skills</p>
-            <p >Terms of Service</p>
+            <p >Critical Thinker</p>
           </div>
           <div class='footer-link-items'>
             <h2><FontAwesomeIcon icon={faComputer}  /> SOFTWARES  </h2>
