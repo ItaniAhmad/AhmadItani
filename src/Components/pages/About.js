@@ -3,7 +3,7 @@ import '../../App.css';
 
 export default function About() {
   return <div className='aboutme'>
-    <img className='img_abt' src="/images/7.jpg"/>
+    <img className='img_abt' src="/images/7.jpg" alt=''/>
     <div className='layer'></div>
     <div className='aboutme-text'>
     <h1 >Our time on earth is temporary hence why it is important to make the most of it by appreciating the good things we have .</h1>

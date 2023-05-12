@@ -49,13 +49,12 @@ function Footer() {
             
             <a
               to='/'
-              target='_blank'
               className="soc">
               <i class='fab fa-instagram' />
             </a>
             <a
               href="mailto:ahmad.itanii@outlook.com" 
-              target='_blank'
+              
               className="soc">
               <i class="far fa-envelope"/>
             </a>
@@ -63,7 +62,7 @@ function Footer() {
             <a
                href="https://www.linkedin.com/in/ahmad-itani-1a8910211/"
               className="soc"
-              target='_blank'>
+              >
               <i  class='fab fa-linkedin ' />
             </a>
             <a
